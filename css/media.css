@@ -1,0 +1,517 @@
+@media(max-width: 1285px) {
+  header .title-text {
+    margin-right: 0px !important;
+  }
+}
+
+@media(max-width: 1199px) {
+  header .title img {
+    width: 386px !important;
+  }
+
+  header .title h1 {
+    font-size: 30px !important;
+    line-height: 60px !important;
+    width: 500px !important;
+    margin-top: 60px !important;
+  }
+
+  header .title .resume {
+    margin-bottom: 30px !important;
+  }
+
+  header .title .scrol-down i.fas {
+    width: 35px !important;
+    height: 35px !important;
+    padding: 12px 14px !important;
+    font-size: 12px !important;
+  }
+
+  header .title .scrol-down a {
+    font-size: 12px !important;
+  }
+
+  main .skills .skil-img {
+    width: 445px !important;
+    height: 353px !important;
+    background: radial-gradient(51.33% 49.78% at 49.47% 44.58%, #FDFDFD 0%, #FCE8E6 100%) !important;
+    padding: 38px 46px 12px 71px !important;
+    border-radius: 42px !important;
+    margin-right: 40px !important;
+  }
+
+  main .skills h2,
+  .blog h2,
+  .media-text h2,
+  .portfolio h2,
+  .contacts h2 {
+    font-size: 25px !important;
+    line-height: 40px !important;
+  }
+
+  main .skills .skills-wrap .skill-box h3,
+  .media-icons h3 {
+    font-size: 14px !important;
+  }
+
+  main .skills .skills-wrap .skill-box span {
+    font-size: 16px !important;
+  }
+
+  main .skills .skills-wrap {
+    padding: 8px 0px 36px 0px !important;
+  }
+
+  .services .servic-app .app {
+    width: 120px !important;
+    height: 120px !important;
+    padding: 15px !important;
+  }
+
+  .services img {
+    width: 350px !important;
+  }
+
+  .services .servic-app .app h3 {
+    font-size: 14px !important;
+  }
+
+  .services .servic-app .app i {
+    font-size: 27px !important;
+  }
+
+  .blog img {
+    width: 300px !important;
+  }
+
+  .social-media {
+    padding: 30px 5px 25px 35px !important;
+  }
+
+  .carousel-item img {
+    height: 460px !important;
+  }
+
+  .contacts p {
+    margin-top: 15px !important;
+    font-size: 13px !important;
+  }
+
+  .contacts .phone a p {
+    font-size: 13px !important;
+  }
+
+  .contacts .phone i.fas {
+    font-size: 17px !important;
+    padding: 13px !important;
+    border-radius: 11px !important;
+  }
+
+  .contacts .phone {
+    padding: 50px 20px 60px 20px !important;
+  }
+
+  .form form input.name {
+    width: 180px !important;
+  }
+
+  .form form input {
+    height: 50px;
+    margin: 10px 0px;
+    padding: 15px !important;
+  }
+
+  .form form input::placeholder {
+    font-size: 15px !important;
+  }
+
+  .contacts {
+    padding-bottom: 50px !important;
+  }
+}
+
+@media(max-width: 991px) {
+  header .title img {
+    width: 300px !important;
+  }
+
+  header .title h1 {
+    width: 395px !important;
+    font-size: 28px !important;
+  }
+
+  header .title .title-text {
+    margin-right: 0px !important;
+  }
+
+  header .title .resume {
+    margin-bottom: 15px !important;
+    font-size: 14px !important;
+  }
+
+  header .title .scrol-down i.fas {
+    width: 29px !important;
+    height: 29px !important;
+    padding: 8px 11px !important;
+    font-size: 11px !important;
+    margin-right: 5px !important;
+  }
+
+  main .skills .skil-img {
+    width: 363px !important;
+    height: 300px !important;
+  }
+
+  main .skills .skil-img img {
+    width: 220px !important;
+  }
+
+  main .skills .skills-wrap .skill-box span {
+    font-size: 14px !important;
+  }
+
+  main .skills .skills-wrap .skill-box h3,
+  .media-icons h3 {
+    font-size: 12px !important;
+  }
+
+  .light-night {
+    margin-left: 0 !important;
+  }
+
+  .title {
+    align-items: flex-start !important;
+  }
+
+  .services img {
+    width: 250px !important;
+  }
+
+  .services .servic-app {
+    justify-content: center !important;
+  }
+
+  main .skills h2,
+  .blog h2,
+  .media-text h2,
+  .portfolio h2,
+  .contacts h2 {
+    font-size: 23px !important;
+    line-height: 25px !important;
+  }
+
+  .services .servic-app .app h3 {
+    font-size: 13px !important;
+  }
+
+  .servic-app .app i.fab {
+    font-size: 32px !important;
+  }
+
+  .services .servic-app .app:nth-child(4) {
+    margin-bottom: 30px !important;
+  }
+
+  .blog img {
+    width: 250px !important;
+  }
+
+  .blog .active-p,
+  .passive-p,
+  .portfolio p {
+    font-size: 15px !important;
+    line-height: 24px !important;
+    margin-bottom: 5px !important;
+  }
+
+  .services,
+  .skills,
+  .blog,
+  .portfolio {
+    padding: 60px 0px !important;
+  }
+
+  .media-icons .icon {
+    margin: 0px 15px !important;
+  }
+
+  .media-icons .icon i.fab {
+    font-size: 24px !important;
+  }
+
+  .services,
+  .skills,
+  .blog,
+  .portfolio {
+    padding: 50px 0px !important;
+  }
+
+  .carousel-item img {
+    height: 360px !important;
+  }
+
+  .carousel-item:nth-child(1) .carousel-caption h5 {
+    color: blue !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    background: #fff !important;
+  }
+
+  .carousel-item:nth-child(2) .carousel-caption h5 {
+    color: green !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    background: #fff !important;
+  }
+
+  .carousel-item:nth-child(3) .carousel-caption h5 {
+    color: white !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    background: #000 !important;
+  }
+  .contacts{
+    flex-wrap: wrap;
+  }  
+  .contacts .phone{
+    padding: 30px 50px 10px 50px !important;
+  }
+  .contacts .phone,
+  .contacts .form{
+    text-align: center;
+    width: 100%;
+  }
+  .contacts .form{
+    padding: 30px 70px!important;
+  }
+  .contacts .form input{
+    width: 100%!important;
+  }
+  .contacts .form input.name{
+    width: 100%!important;
+  }
+}
+
+
+@media(max-width: 767px) {
+  header{
+    padding-top: 0px !important;
+  }
+  header .title {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+  header nav .navbar-nav .nav-item .nav-link:hover::after{
+    display: none;
+  }
+  header .title h1 {
+    text-align: center !important;
+  }
+
+  header .title-text {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  header .title h1 {
+    font-size: 30px !important;
+    line-height: 50px !important;
+    width: 500px !important;
+    margin-top: 25px !important;
+  }
+
+  header .title .resume {
+    margin-top: 6px !important;
+  }
+
+  main .skills .skil-img {
+    width: 300px !important;
+    height: 240px !important;
+    padding: 29px 46px 12px 60px !important;
+    margin: 0 auto !important;
+  }
+
+  main .skills .skil-img img {
+    width: 170px !important;
+  }
+
+  main .skills h2,
+  .blog h2,
+  .media-text h2,
+  .portfolio h2,
+  .contacts h2 {
+    font-size: 21px !important;
+    line-height: 21px !important;
+  }
+
+  .skills {
+    flex-direction: column-reverse !important;
+  }
+
+  .skills .skill-text-cont {
+    text-align: center !important;
+    margin: 0 auto !important;
+  }
+
+  main .skills .skills-wrap {
+    padding: 8px 0px 25px 0px !important;
+    justify-content: space-evenly !important;
+  }
+
+  .services {
+    flex-direction: column !important;
+    margin: 0 auto !important;
+  }
+
+  .services .servic-app {
+    width: auto !important;
+  }
+
+  .services .servic-app .app {
+    margin: 20px !important;
+  }
+
+  .services .servic-app .app:nth-child(4) {
+    margin-bottom: 0px !important;
+  }
+
+  .services,
+  .skills,
+  .blog,
+  .portfolio {
+    padding: 30px 0px !important;
+  }
+
+  .services img {
+    margin-top: 15px !important;
+  }
+
+  .blog {
+    flex-direction: column-reverse !important;
+  }
+
+  .blog img {
+    margin-right: 0 !important;
+  }
+
+  .blog-text {
+    text-align: center !important;
+  }
+
+  .social-media {
+    flex-direction: column !important;
+  }
+
+  .social-media .media-text {
+    width: 400px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .carousel-item img {
+    height: 290px !important;
+  }
+
+  .portfolio p {
+    margin-bottom: 15px !important;
+  }
+
+  .contacts{
+    flex-direction: column !important;
+    padding-bottom: 0px!important;
+  }
+
+  .contacts .phone {
+    text-align: center !important;
+    padding: 20px 30px!important;
+    width: min-content!important;
+  }
+
+  .phone-emails {
+    flex-direction: row !important;
+    justify-content: space-around !important;
+  }
+
+  .form {
+    padding: 15px 25px 30px 35px !important;
+  }
+
+  .form form input.name {
+    width: 180px !important;
+  }
+}
+
+@media(max-width: 576px) {
+  header .title h1 {
+    font-size: 30px !important;
+    line-height: 50px !important;
+    width: auto !important;
+    margin-top: 20px !important;
+  }
+
+  header .scrol-down {
+    display: none;
+  }
+
+  .navbar-collapse {
+    text-align: center !important;
+  }
+
+  .container-fluid {
+    margin-left: 10px !important;
+  }
+
+  .services .servic-app .app {
+    width: 100px !important;
+    height: 100px !important;
+    padding: 10px !important;
+  }
+
+  .services .servic-app .app i.fas,
+  .services .servic-app .app i.fab {
+    color: rgba(40, 40, 40, 1) !important;
+    font-size: 30px !important;
+  }
+
+  .services .servic-app .app:nth-child(4) {
+    margin-bottom: 30px !important;
+  }
+
+  .social-media {
+    padding: 30px !important;
+  }
+
+  .media-icons {
+    display: block !important;
+  }
+
+  .blog .passive-p {
+    display: none;
+  }
+
+  .social-media .media-text {
+    width: auto !important;
+  }
+
+  .carousel-item img {
+    height: 200px !important;
+  }
+
+  .phone-emails {
+    flex-direction: column !important;
+  }
+
+  .contacts .phone {
+    width: 100% !important;
+  }
+
+  .contacts .form{
+    display: none;
+  }
+}
+
+@media(min-width: 444px) {
+  .services .servic-app .app:nth-child(4) {
+    margin-bottom: 0px !important;
+  }
+}
