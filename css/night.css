@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #282828!important;
+  background: #282828 !important;
   padding: 30px 0px 50px 0px;
 }
 
@@ -19,12 +19,13 @@ header nav .navbar-brand {
   line-height: 45px;
 }
 
-header nav .navbar-nav .nav-item .nav-link{
+header nav .navbar-nav .nav-item .nav-link {
   position: relative;
   overflow: hidden;
   margin: 0px 5px;
 }
-header nav .navbar-nav .nav-item .nav-link::after{
+
+header nav .navbar-nav .nav-item .nav-link::after {
   content: "";
   display: block;
   width: 100%;
@@ -35,9 +36,11 @@ header nav .navbar-nav .nav-item .nav-link::after{
   left: -100%;
   transition: .3s;
 }
-header nav .navbar-nav .nav-item .nav-link:hover::after{
+
+header nav .navbar-nav .nav-item .nav-link:hover::after {
   left: 0;
 }
+
 /* night mode */
 .light-night {
   margin-bottom: -5px;
@@ -46,7 +49,7 @@ header nav .navbar-nav .nav-item .nav-link:hover::after{
 
 .light-night i.far {
   font-size: 20px;
-  color: #fff!important;
+  color: #fff !important;
 }
 
 header nav {
@@ -63,17 +66,17 @@ header .title h1 {
   font-size: 48px;
   line-height: 72px;
   width: 570px;
-  color: #fff!important;
+  color: #fff !important;
 }
 
 header .title h1 span {
-  color: #FF4C60!important;
+  color: #FF4C60 !important;
   display: block;
 }
 
 header .title .resume {
   display: block;
-  color: #fff!important;
+  color: #fff !important;
   font-size: 16px;
   line-height: 24px;
   text-decoration: none;
@@ -86,13 +89,13 @@ header .title .scrol-down {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #fff!important;
+  color: #fff !important;
   font-size: 12px;
   line-height: 18px;
 }
 
 header .title .scrol-down a {
-  color: #fff!important;
+  color: #fff !important;
   font-size: 15px;
   line-height: 18px;
   text-decoration: none;
@@ -106,9 +109,9 @@ header .title .scrol-down i.fas {
   width: 56px;
   height: 56px;
   padding: 19px 23px;
-  border: 1px solid #fff!important;
+  border: 1px solid #fff !important;
   border-radius: 50%;
-  color: #fff!important;
+  color: #fff !important;
   font-size: 16px;
   box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
   margin-right: 15px;
@@ -136,12 +139,12 @@ main .skills h2,
   font-weight: bold;
   font-size: 30px;
   line-height: 45px;
-  color: #fff!important;
+  color: #fff !important;
 }
 
 main .skills p {
   font-size: 12px;
-  color: #C4C4C4!important;
+  color: #C4C4C4 !important;
 }
 
 main .skills .skills-wrap {
@@ -156,14 +159,14 @@ main .skills .skills-wrap .skill-box h3,
   font-size: 16px;
   line-height: 24px;
   text-align: center;
-  color: #fff!important;
+  color: #fff !important;
   transition: .3s;
 }
 
 main .skills .skills-wrap .skill-box span {
   font-size: 20px;
   font-weight: bold;
-  color: #F9F3F5!important;
+  color: #F9F3F5 !important;
 }
 
 /* main section 2 */
@@ -236,7 +239,7 @@ main .skills .skills-wrap .skill-box span {
 .portfolio p {
   font-size: 18px;
   line-height: 26px;
-  color: #fff!important;
+  color: #fff !important;
 }
 
 .blog .passive-p,
@@ -259,7 +262,7 @@ main .skills .skills-wrap .skill-box span {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: blueviolet!important;
+  background: blueviolet !important;
 }
 
 .social-media .media-text {
@@ -281,56 +284,34 @@ main .skills .skills-wrap .skill-box span {
 
 .media-icons .icon i.fab {
   font-size: 30px;
-  color: #fff!important;
+  color: #fff !important;
   transition: .3s;
 }
 
 .media-icons .icon:hover i.fab,
 .media-icons .icon:hover h3 {
-  color: #FF4C60!important;
+  color: #FF4C60 !important;
 }
 
-.portfolio {
-  text-align: center;
-  padding: 100px 0px;
+.ijod .work_more {
+  color: #fff !important;
+  border: 2px solid #fff !important;
 }
 
-.portfolio .view {
-  margin: 0px 25px;
-}
-
-.portfolio .view img {
-  width: 100%;
-  margin-bottom: 47px;
-}
-
-.portfolio .view a {
-  color: #FF4C60!important;
-}
-
-.carousel-item img {
-  /* width: 100%; */
-  height: 600px;
-}
-
-i.fa-chevron-left,
-i.fa-chevron-right {
-  color: #FF4C60!important;
-  font-size: 30px
-}
-.contacts{
+.contacts {
   padding-bottom: 100px;
 }
+
 .contacts p {
   font-weight: 700;
   margin-bottom: 30px;
   margin-top: 20px;
-  color: #FFFAFA!important;
+  color: #FFFAFA !important;
 }
 
 .contacts .phone {
   padding: 97px 33px 110px 22px;
-  background: rgb(0, 98, 255)!important;
+  background: rgb(0, 98, 255) !important;
 }
 
 .contacts .phone i.fas {
@@ -363,7 +344,7 @@ i.fa-chevron-right {
   align-items: center;
   justify-content: space-between;
   text-align: center;
-  background: rgb(140, 0, 255)!important;
+  background: rgb(140, 0, 255) !important;
   box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
 }
 
